@@ -1,0 +1,52 @@
+.App {
+  /* text-align: center; */
+  background-color: #2c4350;
+ /* height:100vh; */
+
+}
+
+.but-ton{
+  display: flex;
+  justify-content: flex-start;
+  text-decoration: "white";
+
+}
+.images{
+  height: 80px;
+  width: 100%;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+}
+
+
+.bred{
+  width: 100px;  
+}
+
+.btn-group{
+  display:flex;
+  justify-content: flex-start ;
+}
+.but{
+  color:white;
+  border: 1px solid skyblue;
+  padding:5px;
+  border-radius: 10px;
+
+}
+/* #outlined-basic{
+  color: white;
+} */
+
+
+#search-bar {
+  border-radius: 10px;
+  border: 2px solid #609;
+  padding: 20px; 
+  width: 200px;
+  height: 5px;    
+}
+.reload-but{
+  width: 50;
+}
